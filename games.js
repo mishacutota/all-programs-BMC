@@ -9,6 +9,6 @@ const gamesData = [
     { name: "FHWV-BMC", img: "icons/FH-BMC.png", link: "https://misha-cutora.itch.io/fhwv-bmc" },
     { name: "MFS-BMC", img: "icons/no.png", link: "https://mishacutota.github.io/MFS-BMC/" },
     { name: "RPM BMC and Dewiep", img: "icons/RP Merger By Misha_Cutora and Dewiep.png", link: "https://mishacutota.github.io/RP-Merger-By-Misha_Cutora-and-Dewiep/" },
-    { name: "MathX", img: "icons/mathx.png", link: "https://mishacutota.github.io/x-Math-BMC/" }
+    { name: "MathX", img: "icons/mathx.png", link: "https://mishacutota.github.io/x-Math-BMC/" },
     { name: "Generator previews", img: "icons/GP.png", link: "https://mishacutota.github.io/GP/" }
 ];
